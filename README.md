@@ -9,3 +9,6 @@ This repository is created for performing Git and GitHub lab exercises as part o
 
 ## Author
 Bhavya Chadha
+
+## Contribution by Sehaj Mahajan
+This content is added as part of peer collaboration experiment.
