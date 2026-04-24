@@ -5,7 +5,6 @@ This repository is created for performing Git and GitHub lab exercises as part o
 ## Objectives
 - To understand version control using Git
 - To learn GitHub repository management
-- To perform collaboration using GitHub
 
 ## Author
 Bhavya Chadha
